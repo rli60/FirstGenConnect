@@ -1,1 +1,2 @@
 # FirstGen Connect
+This is a prototype of an app called FirstGen Connect, which was created on XCode using Swift(UI). FirstGen Connect aims to support first-generation students. advice, and resources from peer mentors while allowing them to connect with other first-generation students in their respective universities and major(s). This app includes a forum page where students can post related questions and content, a connections page to connect with other students, a messaging page, and a profile page to edit your information and for other students to view.
