@@ -10,3 +10,4 @@ If you wish to view the app, follow these steps on a MacOS device:
 2. Download this project as a zip file
 3. Extract zip file
 4. Open up XCode project
+5. Run the simulator
